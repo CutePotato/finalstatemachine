@@ -1,0 +1,19 @@
+﻿{
+  "name": "es.markozoranovich.finitestatemachine",
+  "version": "1.0.0",
+  "displayName": "Finite State Machine",
+  "description": "Basic Finite State Machine",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://markozoranovich.es/",
+  "changelogUrl": "https://markozoranovich.es/changelog.html",
+  "licensesUrl": "https://markozoranovich.es/licensing.html",
+  "keywords": [
+    "FSM"
+  ],
+  "author": {
+    "name": "Marko Zoranovich",
+    "email": "marcoafreeman@gmail.com",
+    "url": "https://markozoranovich.es"
+  }
+}
